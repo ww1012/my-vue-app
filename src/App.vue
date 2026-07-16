@@ -8,7 +8,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="我的第一次部署 🚀" />
+      <HelloWorld msg="git push 自动部署成功 ✅" />
     </div>
   </header>
 
